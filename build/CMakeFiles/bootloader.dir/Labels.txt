@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/larshostruppedersen/motorskills/HockeyBar/Esp32/Integration/hockeybar_firmware_lilygo/build/CMakeFiles/bootloader
+/Users/larshostruppedersen/motorskills/HockeyBar/Esp32/Integration/hockeybar_firmware_lilygo/build/CMakeFiles/bootloader.rule
+/Users/larshostruppedersen/motorskills/HockeyBar/Esp32/Integration/hockeybar_firmware_lilygo/build/CMakeFiles/bootloader-complete.rule
+/Users/larshostruppedersen/motorskills/HockeyBar/Esp32/Integration/hockeybar_firmware_lilygo/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/larshostruppedersen/motorskills/HockeyBar/Esp32/Integration/hockeybar_firmware_lilygo/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/larshostruppedersen/motorskills/HockeyBar/Esp32/Integration/hockeybar_firmware_lilygo/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/larshostruppedersen/motorskills/HockeyBar/Esp32/Integration/hockeybar_firmware_lilygo/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/larshostruppedersen/motorskills/HockeyBar/Esp32/Integration/hockeybar_firmware_lilygo/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/larshostruppedersen/motorskills/HockeyBar/Esp32/Integration/hockeybar_firmware_lilygo/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/larshostruppedersen/motorskills/HockeyBar/Esp32/Integration/hockeybar_firmware_lilygo/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

@@ -1,0 +1,7 @@
+#include "freertos/FreeRTOS.h"
+
+#define HBF_DISTANCE_BETWEEN_BEAMS_MM 30.0
+
+#define HBF_PRIORITY_LOW 3
+#define HBF_PRIORITY_MEDIUM 3 //(configMAX_PRIORITIES/2)
+#define HBF_PRIORITY_HIGH 3 //(configMAX_PRIORITIES-1)

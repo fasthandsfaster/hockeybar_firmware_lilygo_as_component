@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/larshostruppedersen/motorskills/HockeyBar/Esp32/Integration/hockeybar_firmware_lilygo/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/Users/larshostruppedersen/motorskills/HockeyBar/Esp32/Integration/hockeybar_firmware_lilygo/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/Users/larshostruppedersen/motorskills/HockeyBar/Esp32/Integration/hockeybar_firmware_lilygo/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/Users/larshostruppedersen/motorskills/HockeyBar/Esp32/Integration/hockeybar_firmware_lilygo/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/Users/larshostruppedersen/motorskills/HockeyBar/Esp32/Integration/hockeybar_firmware_lilygo/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/Users/larshostruppedersen/motorskills/HockeyBar/Esp32/Integration/hockeybar_firmware_lilygo/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/Users/larshostruppedersen/motorskills/HockeyBar/Esp32/Integration/hockeybar_firmware_lilygo/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/Users/larshostruppedersen/motorskills/HockeyBar/Esp32/Integration/hockeybar_firmware_lilygo/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/Users/larshostruppedersen/motorskills/HockeyBar/Esp32/Integration/hockeybar_firmware_lilygo/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/Users/larshostruppedersen/motorskills/HockeyBar/Esp32/Integration/hockeybar_firmware_lilygo/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

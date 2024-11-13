@@ -1,0 +1,44 @@
+{
+	"folders": [
+		{
+			"path": ".",
+		}
+	],
+	"settings": {
+		"terminal.integrated.profiles.windows": {
+			"PowerShell": {
+				"source": "PowerShell",
+				"icon": "terminal-powershell",
+			},
+			"Command Prompt": {
+				"path": [
+					"${env:windir}\\Sysnative\\cmd.exe",
+					"${env:windir}\\System32\\cmd.exe",
+				],
+				"args": [
+					"/k",
+					"${env:IDF_TOOLS_PATH}\\idf_cmd_init.bat",
+				],
+				"icon": "terminal-cmd",
+			},
+			"Git Bash": {
+				"source": "Git Bash",
+			}
+		},
+		"terminal.integrated.defaultProfile.windows": "Command Prompt",
+		"files.associations": {
+			"hbf_wifi.h": "c",
+			"trigger.h": "c",
+			"hbf_constants.h": "c",
+			"websocket.h": "c",
+			"hbf_params.h": "c",
+			"*.inc": "c",
+			"esp_log.h": "c",
+			"hbf_led_strip.h": "c",
+			"esp_system.h": "c",
+			"esp_mac.h": "c",
+			"hbf_util.h": "c"
+		},
+		"idf.adapterTargetName": "esp32s3",
+	}
+}

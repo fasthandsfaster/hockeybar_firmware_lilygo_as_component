@@ -1,0 +1,25 @@
+[0/1] Re-running CMake...
+-- Building ESP-IDF components for target esp32
+NOTICE: 
+Following dependencies have new versions available:
+Dependency "espressif/esp_websocket_client": "1.2.3" -> "1.3.0"
+Consider running "idf.py update-dependencies" to update your lock file.
+Processing 3 dependencies:
+[1/3] espressif/esp_websocket_client (1.2.3)
+[2/3] lvgl/lvgl (8.4.0)
+[3/3] idf (5.3.1)
+-- Project sdkconfig file /Users/larshostruppedersen/motorskills/HockeyBar/Esp32/Integration/hockeybar_firmware_lilygo/sdkconfig
+-- Compiler supported targets: xtensa-esp-elf
+-- App "hockeybar_firmware" version: 1.0.1
+-- Adding linker script /Users/larshostruppedersen/motorskills/HockeyBar/Esp32/Integration/hockeybar_firmware_lilygo/build/esp-idf/esp_system/ld/memory.ld
+-- Adding linker script /Users/larshostruppedersen/motorskills/HockeyBar/Esp32/Integration/hockeybar_firmware_lilygo/build/esp-idf/esp_system/ld/sections.ld.in
+-- Adding linker script /Users/larshostruppedersen/esp/esp-idf/components/esp_rom/esp32/ld/esp32.rom.ld
+-- Adding linker script /Users/larshostruppedersen/esp/esp-idf/components/esp_rom/esp32/ld/esp32.rom.api.ld
+-- Adding linker script /Users/larshostruppedersen/esp/esp-idf/components/esp_rom/esp32/ld/esp32.rom.libgcc.ld
+-- Adding linker script /Users/larshostruppedersen/esp/esp-idf/components/esp_rom/esp32/ld/esp32.rom.newlib-data.ld
+-- Adding linker script /Users/larshostruppedersen/esp/esp-idf/components/esp_rom/esp32/ld/esp32.rom.syscalls.ld
+-- Adding linker script /Users/larshostruppedersen/esp/esp-idf/components/esp_rom/esp32/ld/esp32.rom.newlib-funcs.ld
+-- Adding linker script /Users/larshostruppedersen/esp/esp-idf/components/soc/esp32/ld/esp32.peripherals.ld
+-- Configuring incomplete, errors occurred!
+FAILED: build.ninja 
+/opt/homebrew/Cellar/cmake/3.26.4/bin/cmake --regenerate-during-build -S/Users/larshostruppedersen/motorskills/HockeyBar/Esp32/Integration/hockeybar_firmware_lilygo -B/Users/larshostruppedersen/motorskills/HockeyBar/Esp32/Integration/hockeybar_firmware_lilygo/build
